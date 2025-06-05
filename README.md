@@ -7,7 +7,8 @@ Welcome to my personal portfolio — a showcase of my skills, projects, achievem
 
 🧑‍💼 About Me: A brief overview of my background, interests, and passion for software development.
 
-🧠 Skills: Categorized list of technologies, tools, and concepts I'm proficient in — from Core Java and Spring Boot to DSA and DBMS.
+🧠 Skills: Categorized list of technologies, tools, and concepts I'm proficient i
+n — from Core Java and Spring Boot to DSA and DBMS.
 
 💼 Projects: Real-world projects I’ve built, each with detailed descriptions and use of modern web technologies.
 
