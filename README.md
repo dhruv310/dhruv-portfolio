@@ -1,12 +1,61 @@
-# React + Vite
+Dhruv Patil — Portfolio
+🚀 Introduction
+Welcome to my personal portfolio — a showcase of my skills, projects, achievements, and a gateway to connect with me. This site is built using React.js and styled with Bootstrap 5, creating a clean, responsive, and modern user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔥 Features
+👋 Hero Section: A striking introduction with buttons to my email, LinkedIn, LeetCode, and GeeksforGeeks profiles.
 
-Currently, two official plugins are available:
+🧑‍💼 About Me: A brief overview of my background, interests, and passion for software development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧠 Skills: Categorized list of technologies, tools, and concepts I'm proficient in — from Core Java and Spring Boot to DSA and DBMS.
 
-## Expanding the ESLint configuration
+💼 Projects: Real-world projects I’ve built, each with detailed descriptions and use of modern web technologies.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🏆 Achievements: A showcase of my certifications, accomplishments, and coding milestones.
+
+📬 Contact Me: Easy ways to reach out through social media or email.
+
+⚙️ Getting Started
+To run this project locally, follow these steps:
+
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/dhruv310/dhruv-portfolio.git
+Navigate into the project folder:
+
+bash
+Copy
+Edit
+cd dhruv-portfolio
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Run the development server:
+
+bash
+Copy
+Edit
+npm run dev
+Open http://localhost:5173 to view it in the browser.
+
+📎 Tech Stack
+React.js
+
+Bootstrap 5
+
+Vite
+
+React Icons
+
+Git & GitHub
+
+🙏 Acknowledgments
+Thank you for visiting my portfolio!
+Feel free to explore the code, check out my work, and connect with me through any of the provided platforms.
+Looking forward to hearing from you!
