@@ -5,7 +5,7 @@ const Hero = () => (
     <section
         id="hero"
         className="bg-primary text-white text-center d-flex flex-column justify-content-center align-items-center py-5 px-3"
-        style={{ minHeight: "60vh" }}
+        style={{ minHeight: "30vh" }}
     >
         <h1 className="display-4 fw-bold mb-3">
             Hi, I'm <span className="text-warning">Dhruv Patil</span>
