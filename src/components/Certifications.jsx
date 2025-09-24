@@ -62,4 +62,4 @@ const Achievements = () => (
     </div>
   </section>
 );
-export default Certification;
+export default Certifications;
