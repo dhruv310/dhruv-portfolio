@@ -3,7 +3,7 @@ import { FaFolderOpen, FaCheckCircle } from "react-icons/fa";
 
 const projects = [
   {
-    name: "E-commerce Website",
+    name: "SuperKart E-Commerce Web Application",
     desc: [
       "Developed a full-stack e-commerce platform with user-friendly browsing, cart, and secure purchasing functionality.",
       "Integrated product management for admins to add, update, and remove items.",
