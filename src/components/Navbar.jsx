@@ -23,7 +23,7 @@ const Navbar = () => (
           {/* Add more nav items here if needed */}
           <li className="nav-item">
             <a
-              href="https://drive.google.com/uc?export=download&id=1FLqjnLN4-_i2KgX6gizwv9idsXJLnkI1"
+              href="https://drive.google.com/drive/folders/1AkARhAVeO2mna7SJFQn8bTO8LHbR8Ff9"
               className="btn btn-outline-light"
               target="_blank"
               rel="noopener noreferrer"
